@@ -10,6 +10,10 @@ namespace TextBasedDataType
     {
         static void Main(string[] args)
         {
+            string name = "partho ";//String data type
+            char latter = 'a';//char data type
+            Console.Write(name);
+            Console.WriteLine(latter);
         }
     }
 }

@@ -1,0 +1,7 @@
+D:\programming file\C#\introduction\covertionBetweenStringAndNumber\covertionBetweenStringAndNumber\bin\Debug\covertionBetweenStringAndNumber.exe.config
+D:\programming file\C#\introduction\covertionBetweenStringAndNumber\covertionBetweenStringAndNumber\bin\Debug\covertionBetweenStringAndNumber.exe
+D:\programming file\C#\introduction\covertionBetweenStringAndNumber\covertionBetweenStringAndNumber\bin\Debug\covertionBetweenStringAndNumber.pdb
+D:\programming file\C#\introduction\covertionBetweenStringAndNumber\covertionBetweenStringAndNumber\obj\Debug\covertionBetweenStringAndNumber.csproj.AssemblyReference.cache
+D:\programming file\C#\introduction\covertionBetweenStringAndNumber\covertionBetweenStringAndNumber\obj\Debug\covertionBetweenStringAndNumber.csproj.CoreCompileInputs.cache
+D:\programming file\C#\introduction\covertionBetweenStringAndNumber\covertionBetweenStringAndNumber\obj\Debug\covertionBetweenStringAndNumber.exe
+D:\programming file\C#\introduction\covertionBetweenStringAndNumber\covertionBetweenStringAndNumber\obj\Debug\covertionBetweenStringAndNumber.pdb

@@ -1,0 +1,7 @@
+D:\programming file\C#\introduction\TextBasedDataType\TextBasedDataType\bin\Debug\TextBasedDataType.exe.config
+D:\programming file\C#\introduction\TextBasedDataType\TextBasedDataType\bin\Debug\TextBasedDataType.exe
+D:\programming file\C#\introduction\TextBasedDataType\TextBasedDataType\bin\Debug\TextBasedDataType.pdb
+D:\programming file\C#\introduction\TextBasedDataType\TextBasedDataType\obj\Debug\TextBasedDataType.csproj.AssemblyReference.cache
+D:\programming file\C#\introduction\TextBasedDataType\TextBasedDataType\obj\Debug\TextBasedDataType.csproj.CoreCompileInputs.cache
+D:\programming file\C#\introduction\TextBasedDataType\TextBasedDataType\obj\Debug\TextBasedDataType.exe
+D:\programming file\C#\introduction\TextBasedDataType\TextBasedDataType\obj\Debug\TextBasedDataType.pdb
