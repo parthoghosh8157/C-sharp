@@ -11,6 +11,8 @@ namespace myfirstproject
         static void Main(string[] args)
         {
             Console.WriteLine("hi my name is partho and it's my first c# coding");
+            System.Console.WriteLine("hello world");//if we don't use system library
+            Console.ReadLine();
         }
     }
 }

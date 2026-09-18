@@ -1,0 +1,7 @@
+D:\programming file\C#\introduction\NumericDataType\NumericDataType\bin\Debug\NumericDataType.exe.config
+D:\programming file\C#\introduction\NumericDataType\NumericDataType\bin\Debug\NumericDataType.exe
+D:\programming file\C#\introduction\NumericDataType\NumericDataType\bin\Debug\NumericDataType.pdb
+D:\programming file\C#\introduction\NumericDataType\NumericDataType\obj\Debug\NumericDataType.csproj.AssemblyReference.cache
+D:\programming file\C#\introduction\NumericDataType\NumericDataType\obj\Debug\NumericDataType.csproj.CoreCompileInputs.cache
+D:\programming file\C#\introduction\NumericDataType\NumericDataType\obj\Debug\NumericDataType.exe
+D:\programming file\C#\introduction\NumericDataType\NumericDataType\obj\Debug\NumericDataType.pdb
