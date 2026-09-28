@@ -1,0 +1,7 @@
+D:\programming file\C#\basic\consoleInput&Output\consoleInput&Output\bin\Debug\consoleInput&Output.exe.config
+D:\programming file\C#\basic\consoleInput&Output\consoleInput&Output\bin\Debug\consoleInput&Output.exe
+D:\programming file\C#\basic\consoleInput&Output\consoleInput&Output\bin\Debug\consoleInput&Output.pdb
+D:\programming file\C#\basic\consoleInput&Output\consoleInput&Output\obj\Debug\consoleInput&Output.csproj.AssemblyReference.cache
+D:\programming file\C#\basic\consoleInput&Output\consoleInput&Output\obj\Debug\consoleInput&Output.csproj.CoreCompileInputs.cache
+D:\programming file\C#\basic\consoleInput&Output\consoleInput&Output\obj\Debug\consoleInput&Output.exe
+D:\programming file\C#\basic\consoleInput&Output\consoleInput&Output\obj\Debug\consoleInput&Output.pdb

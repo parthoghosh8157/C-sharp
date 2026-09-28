@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming file\\C#\\basic\\IfStatement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A53A5924-4DC6-453E-A385-6E3435680194}|IfStatement\\IfStatement.csproj|d:\\programming file\\c#\\basic\\ifstatement\\ifstatement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A53A5924-4DC6-453E-A385-6E3435680194}|IfStatement\\IfStatement.csproj|solutionrelative:ifstatement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programming file\\C#\\basic\\IfStatement\\IfStatement\\Program.cs",
+              "RelativeDocumentMoniker": "IfStatement\\Program.cs",
+              "ToolTip": "D:\\programming file\\C#\\basic\\IfStatement\\IfStatement\\Program.cs",
+              "RelativeToolTip": "IfStatement\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T15:26:08.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

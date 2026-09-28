@@ -1,0 +1,7 @@
+D:\programming file\C#\introduction\remainder\remainder\bin\Debug\remainder.exe.config
+D:\programming file\C#\introduction\remainder\remainder\bin\Debug\remainder.exe
+D:\programming file\C#\introduction\remainder\remainder\bin\Debug\remainder.pdb
+D:\programming file\C#\introduction\remainder\remainder\obj\Debug\remainder.csproj.AssemblyReference.cache
+D:\programming file\C#\introduction\remainder\remainder\obj\Debug\remainder.csproj.CoreCompileInputs.cache
+D:\programming file\C#\introduction\remainder\remainder\obj\Debug\remainder.exe
+D:\programming file\C#\introduction\remainder\remainder\obj\Debug\remainder.pdb

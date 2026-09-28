@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming file\\C#\\introduction\\remainder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE63A2A-ACE5-4395-89E5-2F83BFB63A91}|remainder\\remainder.csproj|d:\\programming file\\c#\\introduction\\remainder\\remainder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE63A2A-ACE5-4395-89E5-2F83BFB63A91}|remainder\\remainder.csproj|solutionrelative:remainder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programming file\\C#\\introduction\\remainder\\remainder\\Program.cs",
+              "RelativeDocumentMoniker": "remainder\\Program.cs",
+              "ToolTip": "D:\\programming file\\C#\\introduction\\remainder\\remainder\\Program.cs",
+              "RelativeToolTip": "remainder\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T15:19:21.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

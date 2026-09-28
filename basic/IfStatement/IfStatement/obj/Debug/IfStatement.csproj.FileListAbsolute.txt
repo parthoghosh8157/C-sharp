@@ -1,0 +1,7 @@
+D:\programming file\C#\basic\IfStatement\IfStatement\bin\Debug\IfStatement.exe.config
+D:\programming file\C#\basic\IfStatement\IfStatement\bin\Debug\IfStatement.exe
+D:\programming file\C#\basic\IfStatement\IfStatement\bin\Debug\IfStatement.pdb
+D:\programming file\C#\basic\IfStatement\IfStatement\obj\Debug\IfStatement.csproj.AssemblyReference.cache
+D:\programming file\C#\basic\IfStatement\IfStatement\obj\Debug\IfStatement.csproj.CoreCompileInputs.cache
+D:\programming file\C#\basic\IfStatement\IfStatement\obj\Debug\IfStatement.exe
+D:\programming file\C#\basic\IfStatement\IfStatement\obj\Debug\IfStatement.pdb

@@ -1,0 +1,7 @@
+D:\programming file\C#\introduction\varKeyword\varKeyword\obj\Debug\varKeyword.csproj.AssemblyReference.cache
+D:\programming file\C#\introduction\varKeyword\varKeyword\obj\Debug\varKeyword.csproj.CoreCompileInputs.cache
+D:\programming file\C#\introduction\varKeyword\varKeyword\bin\Debug\varKeyword.exe.config
+D:\programming file\C#\introduction\varKeyword\varKeyword\bin\Debug\varKeyword.exe
+D:\programming file\C#\introduction\varKeyword\varKeyword\bin\Debug\varKeyword.pdb
+D:\programming file\C#\introduction\varKeyword\varKeyword\obj\Debug\varKeyword.exe
+D:\programming file\C#\introduction\varKeyword\varKeyword\obj\Debug\varKeyword.pdb
