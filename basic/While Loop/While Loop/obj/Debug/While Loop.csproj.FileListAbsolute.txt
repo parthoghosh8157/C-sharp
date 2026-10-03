@@ -1,0 +1,7 @@
+D:\programming file\C#\basic\While Loop\While Loop\bin\Debug\While Loop.exe.config
+D:\programming file\C#\basic\While Loop\While Loop\bin\Debug\While Loop.exe
+D:\programming file\C#\basic\While Loop\While Loop\bin\Debug\While Loop.pdb
+D:\programming file\C#\basic\While Loop\While Loop\obj\Debug\While Loop.csproj.AssemblyReference.cache
+D:\programming file\C#\basic\While Loop\While Loop\obj\Debug\While Loop.csproj.CoreCompileInputs.cache
+D:\programming file\C#\basic\While Loop\While Loop\obj\Debug\While Loop.exe
+D:\programming file\C#\basic\While Loop\While Loop\obj\Debug\While Loop.pdb

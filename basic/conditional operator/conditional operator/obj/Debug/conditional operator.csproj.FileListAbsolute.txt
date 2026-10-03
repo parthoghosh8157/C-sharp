@@ -1,0 +1,7 @@
+D:\programming file\C#\basic\conditional operator\conditional operator\bin\Debug\conditional operator.exe.config
+D:\programming file\C#\basic\conditional operator\conditional operator\bin\Debug\conditional operator.exe
+D:\programming file\C#\basic\conditional operator\conditional operator\bin\Debug\conditional operator.pdb
+D:\programming file\C#\basic\conditional operator\conditional operator\obj\Debug\conditional operator.csproj.AssemblyReference.cache
+D:\programming file\C#\basic\conditional operator\conditional operator\obj\Debug\conditional operator.csproj.CoreCompileInputs.cache
+D:\programming file\C#\basic\conditional operator\conditional operator\obj\Debug\conditional operator.exe
+D:\programming file\C#\basic\conditional operator\conditional operator\obj\Debug\conditional operator.pdb
